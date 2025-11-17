@@ -8,7 +8,6 @@
 .mypy_cache/
 .pytype/
 .idea
-.vscode
 .envrc
 
 # virtualenv/venv directories
@@ -24,3 +23,7 @@
 /docs/sg_execution_times.rst
 /docs/generated
 build/*
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
